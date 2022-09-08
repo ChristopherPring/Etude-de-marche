@@ -1,0 +1,220 @@
+Zone,id,Taux des droits de douane
+Aruba,ABW,12.12
+Afghanistan,AFG,5.63
+Angola,AGO,9.23
+Albanie,ALB,1.1
+Andorre,AND,
+Émirats arabes unis,ARE,3.28
+Argentine,ARG,6.88
+Arménie,ARM,3.11
+Samoa américaines,ASM,
+Antigua-et-Barbuda,ATG,13.07
+Australie,AUS,0.71
+Autriche,AUT,1.48
+Azerbaïdjan,AZE,5.93
+Burundi,BDI,11.31
+Belgique,BEL,1.48
+Bénin,BEN,9.86
+Burkina Faso,BFA,7.15
+Bangladesh,BGD,10.99
+Bulgarie,BGR,1.48
+Bahreïn,BHR,2.02
+Bahamas,BHS,17.05
+Bosnie-Herzégovine,BIH,2.86
+Bélarus,BLR,1.76
+Belize,BLZ,18.69
+Bermudes,BMU,24.07
+Bolivie,BOL,5.18
+Brésil,BRA,8.41
+Barbade,BRB,11.82
+Brunéi Darussalam,BRN,0.02
+Bhoutan,BTN,6.6
+Botswana,BWA,0.8
+République centrafricaine,CAF,16.44
+Canada,CAN,1.49
+Suisse,CHE,1.36
+Îles Anglo-Normandes,CHI,
+Chili,CHL,0.43
+Chine,CHN,2.47
+Côte d'Ivoire,CIV,7.63
+Cameroun,CMR,15.46
+"Congo, République démocratique du",COD,8.4
+"Congo, République du",COG,11.55
+Colombie,COL,2.4
+Comores,COM,4.58
+Cabo Verde,CPV,12.18
+Costa Rica,CRI,1.51
+Cuba,CUB,8.83
+Curacao,CUW,
+Îles Caïmans,CYM,16.72
+Chypre,CYP,1.48
+République tchèque,CZE,1.48
+Allemagne,DEU,1.48
+Djibouti,DJI,17.56
+Dominique,DMA,7.84
+Danemark,DNK,1.48
+République dominicaine,DOM,3.9
+Algérie,DZA,10.16
+Équateur,ECU,6.21
+"Égypte, République arabe d’",EGY,10.43
+Érythrée,ERI,5.43
+Espagne,ESP,1.48
+Estonie,EST,1.48
+Éthiopie,ETH,12.13
+Finlande,FIN,1.48
+Fidji,FJI,16.62
+France,FRA,1.48
+Îles Féroé,FRO,
+"Micronésie, États fédérés de",FSM,
+Gabon,GAB,14.5
+Royaume-Uni,GBR,1.28
+Géorgie,GEO,0.21
+Ghana,GHA,10.51
+Gibraltar,GIB,
+Guinée,GIN,12.23
+Gambie,GMB,17.82
+Guinée-Bissau,GNB,11.65
+Guinée équatoriale,GNQ,15.63
+Grèce,GRC,1.48
+Grenade,GRD,10.79
+Groenland,GRL,
+Guatemala,GTM,1.59
+Guam,GUM,
+Guyana,GUY,6.51
+Revenu élevé,HIC,2.02
+"Chine, RAS de Hong Kong",HKG,0
+Honduras,HND,3.31
+Croatie,HRV,1.48
+Haïti,HTI,6.76
+Hongrie,HUN,1.48
+Indonésie,IDN,2.04
+Île de Man,IMN,
+Inde,IND,6.19
+Irlande,IRL,1.48
+"Iran, République islamique d’",IRN,12.09
+Iraq,IRQ,10.0
+Islande,ISL,1.53
+Israël,ISR,1.85
+Italie,ITA,1.48
+Jamaïque,JAM,8.41
+Jordanie,JOR,3.98
+Japon,JPN,2.22
+Kazakhstan,KAZ,1.96
+Kenya,KEN,9.32
+République kirghize,KGZ,2.33
+Cambodge,KHM,6.21
+Kiribati,KIR,
+Saint-Kitts-et-Nevis,KNA,8.84
+"Corée, République de",KOR,5.48
+Koweït,KWT,3.01
+République démocratique populaire lao,LAO,0.97
+Liban,LBN,2.83
+Libéria,LBR,6.6
+Libye,LBY,4.54
+Sainte-Lucie,LCA,9.08
+Liechtenstein,LIE,
+Sri Lanka,LKA,6.28
+Lesotho,LSO,3.31
+Lituanie,LTU,1.48
+Luxembourg,LUX,1.48
+Lettonie,LVA,1.48
+"Région administrative spéciale de Macao, Chine",MAC,0
+Saint-Martin (fr),MAF,
+Maroc,MAR,3.61
+Monaco,MCO,
+Moldova,MDA,1.26
+Madagascar,MDG,7.2
+Maldives,MDV,11.55
+Mexique,MEX,1.24
+Îles Marshall,MHL,
+Macédoine du Nord,MKD,1.74
+Mali,MLI,9.24
+Malte,MLT,1.48
+Myanmar,MMR,1.81
+Monténégro,MNE,2.59
+Mongolie,MNG,5.3
+Mariannes,MNP,
+Mozambique,MOZ,4.14
+Mauritanie,MRT,12.19
+Maurice,MUS,0.92
+Malawi,MWI,6.18
+Malaisie,MYS,3.6
+Namibie,NAM,1.26
+Nouvelle-Calédonie,NCL,
+Niger,NER,8.06
+Nigéria,NGA,12.37
+Nicaragua,NIC,1.84
+Pays-Bas,NLD,1.48
+Norvège,NOR,2.8
+Népal,NPL,11.6
+Nauru,NRU,14.39
+Nouvelle-Zélande,NZL,0.85
+Oman,OMN,1.71
+Pakistan,PAK,8.67
+Panama,PAN,5.77
+Pérou,PER,0.66
+Philippines,PHL,1.67
+Palaos,PLW,9.6
+Papouasie-Nouvelle-Guinée,PNG,3.63
+Pologne,POL,1.48
+Porto Rico,PRI,
+"Corée, République démocratique de",PRK,
+Portugal,PRT,1.48
+Paraguay,PRY,4.05
+Cisjordanie et Gaza,PSE,2.18
+Polynésie française,PYF,4.83
+Qatar,QAT,3.55
+Roumanie,ROU,1.48
+Fédération de Russie,RUS,4.07
+Rwanda,RWA,10.19
+Arabie saoudite,SAU,4.23
+Soudan,SDN,0
+Sénégal,SEN,9.07
+Singapour,SGP,0.05
+Îles Salomon,SLB,13.62
+Sierra Leone,SLE,14.05
+El Salvador,SLV,1.91
+Saint-Marin,SMR,
+Somalie,SOM,
+Serbie,SRB,1.44
+Soudan du Sud,SSD,
+Sao Tomé-et-Principe,STP,9.97
+Suriname,SUR,8.72
+République slovaque,SVK,1.48
+Slovénie,SVN,1.48
+Suède,SWE,1.48
+Eswatini,SWZ,2.27
+Sint Maarten (Dutch part),SXM,
+Seychelles,SYC,1.47
+République arabe syrienne,SYR,9.21
+Îles Turques-et-Caïques,TCA,
+Tchad,TCD,16.36
+Togo,TGO,10.98
+Thaïlande,THA,3.52
+Tadjikistan,TJK,3.93
+Turkménistan,TKM,
+Timor-Leste,TLS,2.53
+Tonga,TON,6.56
+Trinité-et-Tobago,TTO,8.63
+Tunisie,TUN,9.35
+Turquie,TUR,2.85
+Tuvalu,TUV,2.43
+Tanzanie,TZA,8.94
+Ouganda,UGA,8.09
+Ukraine,UKR,1.67
+Uruguay,URY,5.29
+États-Unis,USA,1.52
+Ouzbékistan,UZB,2.63
+Saint-Vincent-et-les Grenadines,VCT,8.97
+Venezuela,VEN,14.06
+Îles Vierges britanniques,VGB,
+Îles Vierges (EU),VIR,
+Viet Nam,VNM,1.34
+Vanuatu,VUT,12.66
+Monde,WLD,2.59
+Samoa,WSM,10.38
+Kosovo,XKX,
+"Yémen, Rép. du",YEM,5.03
+Afrique du Sud,ZAF,4.4
+Zambie,ZMB,4.82
+Zimbabwe,ZWE,4.99

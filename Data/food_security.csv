@@ -1,0 +1,558 @@
+id,Zone,Element,Value
+AFG,Afghanistan,Average supply of protein of animal origin (g/cap/day),10.7
+AFG,Afghanistan,Gross domestic product ($/cap),2058.4
+AFG,Afghanistan,Political stability and absence of violence/terrorism (index),-2.8
+ALB,Albania,Average supply of protein of animal origin (g/cap/day),62.7
+ALB,Albania,Gross domestic product ($/cap),12771
+ALB,Albania,Political stability and absence of violence/terrorism (index),0.38
+DZA,Algeria,Average supply of protein of animal origin (g/cap/day),25.6
+DZA,Algeria,Gross domestic product ($/cap),11737.4
+DZA,Algeria,Political stability and absence of violence/terrorism (index),-0.92
+ASM,American Samoa,Political stability and absence of violence/terrorism (index),1.22
+AND,Andorra,Political stability and absence of violence/terrorism (index),1.42
+AGO,Angola,Average supply of protein of animal origin (g/cap/day),15.7
+AGO,Angola,Gross domestic product ($/cap),7310.9
+AGO,Angola,Political stability and absence of violence/terrorism (index),-0.33
+ATG,Antigua and Barbuda,Average supply of protein of animal origin (g/cap/day),50
+ATG,Antigua and Barbuda,Gross domestic product ($/cap),19840.3
+ATG,Antigua and Barbuda,Political stability and absence of violence/terrorism (index),0.75
+ARG,Argentina,Average supply of protein of animal origin (g/cap/day),67.3
+ARG,Argentina,Gross domestic product ($/cap),23597.1
+ARG,Argentina,Political stability and absence of violence/terrorism (index),0.17
+ARM,Armenia,Average supply of protein of animal origin (g/cap/day),44.7
+ARM,Armenia,Gross domestic product ($/cap),12115.1
+ARM,Armenia,Political stability and absence of violence/terrorism (index),-0.62
+AUS,Australia,Average supply of protein of animal origin (g/cap/day),71.6
+AUS,Australia,Gross domestic product ($/cap),48482.6
+AUS,Australia,Political stability and absence of violence/terrorism (index),0.89
+AUT,Austria,Average supply of protein of animal origin (g/cap/day),64.7
+AUT,Austria,Gross domestic product ($/cap),54170
+AUT,Austria,Political stability and absence of violence/terrorism (index),1.05
+AZE,Azerbaijan,Average supply of protein of animal origin (g/cap/day),31.7
+AZE,Azerbaijan,Gross domestic product ($/cap),14121.4
+AZE,Azerbaijan,Political stability and absence of violence/terrorism (index),-0.75
+BHS,Bahamas,Average supply of protein of animal origin (g/cap/day),52.3
+BHS,Bahamas,Gross domestic product ($/cap),36298.4
+BHS,Bahamas,Political stability and absence of violence/terrorism (index),0.99
+BHR,Bahrain,Gross domestic product ($/cap),47709.8
+BHR,Bahrain,Political stability and absence of violence/terrorism (index),-0.96
+BGD,Bangladesh,Average supply of protein of animal origin (g/cap/day),11.7
+BGD,Bangladesh,Gross domestic product ($/cap),4160.7
+BGD,Bangladesh,Political stability and absence of violence/terrorism (index),-1.26
+BRB,Barbados,Average supply of protein of animal origin (g/cap/day),49.3
+BRB,Barbados,Gross domestic product ($/cap),15789
+BRB,Barbados,Political stability and absence of violence/terrorism (index),0.97
+BLR,Belarus,Average supply of protein of animal origin (g/cap/day),51
+BLR,Belarus,Gross domestic product ($/cap),18280.2
+BLR,Belarus,Political stability and absence of violence/terrorism (index),-0.05
+BEL,Belgium,Average supply of protein of animal origin (g/cap/day),58.3
+BEL,Belgium,Gross domestic product ($/cap),50442.3
+BEL,Belgium,Political stability and absence of violence/terrorism (index),0.43
+BLZ,Belize,Average supply of protein of animal origin (g/cap/day),27
+BLZ,Belize,Gross domestic product ($/cap),7193.6
+BLZ,Belize,Political stability and absence of violence/terrorism (index),0.04
+BEN,Benin,Average supply of protein of animal origin (g/cap/day),13.3
+BEN,Benin,Gross domestic product ($/cap),3044.5
+BEN,Benin,Political stability and absence of violence/terrorism (index),0.03
+BMU,Bermuda,Gross domestic product ($/cap),81835
+BMU,Bermuda,Political stability and absence of violence/terrorism (index),1
+BTN,Bhutan,Gross domestic product ($/cap),11142.5
+BTN,Bhutan,Political stability and absence of violence/terrorism (index),1.12
+BOL,Bolivia (Plurinational State of),Average supply of protein of animal origin (g/cap/day),34.7
+BOL,Bolivia (Plurinational State of),Gross domestic product ($/cap),8423.7
+BOL,Bolivia (Plurinational State of),Political stability and absence of violence/terrorism (index),-0.28
+BIH,Bosnia and Herzegovina,Average supply of protein of animal origin (g/cap/day),36.3
+BIH,Bosnia and Herzegovina,Gross domestic product ($/cap),13753.8
+BIH,Bosnia and Herzegovina,Political stability and absence of violence/terrorism (index),-0.35
+BWA,Botswana,Average supply of protein of animal origin (g/cap/day),27.7
+BWA,Botswana,Gross domestic product ($/cap),17253.7
+BWA,Botswana,Political stability and absence of violence/terrorism (index),1.02
+BRA,Brazil,Average supply of protein of animal origin (g/cap/day),52.7
+BRA,Brazil,Gross domestic product ($/cap),14524.6
+BRA,Brazil,Political stability and absence of violence/terrorism (index),-0.42
+BRN,Brunei Darussalam,Gross domestic product ($/cap),60994.5
+BRN,Brunei Darussalam,Political stability and absence of violence/terrorism (index),1.16
+BGR,Bulgaria,Average supply of protein of animal origin (g/cap/day),40.7
+BGR,Bulgaria,Gross domestic product ($/cap),21387.3
+BGR,Bulgaria,Political stability and absence of violence/terrorism (index),0.33
+BFA,Burkina Faso,Average supply of protein of animal origin (g/cap/day),11
+BFA,Burkina Faso,Gross domestic product ($/cap),2044.4
+BFA,Burkina Faso,Political stability and absence of violence/terrorism (index),-0.93
+BDI,Burundi,Gross domestic product ($/cap),773.6
+BDI,Burundi,Political stability and absence of violence/terrorism (index),-2.01
+CPV,Cabo Verde,Average supply of protein of animal origin (g/cap/day),26
+CPV,Cabo Verde,Gross domestic product ($/cap),6643.2
+CPV,Cabo Verde,Political stability and absence of violence/terrorism (index),0.77
+KHM,Cambodia,Average supply of protein of animal origin (g/cap/day),18.7
+KHM,Cambodia,Gross domestic product ($/cap),3928.4
+KHM,Cambodia,Political stability and absence of violence/terrorism (index),0.09
+CMR,Cameroon,Average supply of protein of animal origin (g/cap/day),11.3
+CMR,Cameroon,Gross domestic product ($/cap),3554.5
+CMR,Cameroon,Political stability and absence of violence/terrorism (index),-1.1
+CAN,Canada,Average supply of protein of animal origin (g/cap/day),55
+CAN,Canada,Gross domestic product ($/cap),48317.1
+CAN,Canada,Political stability and absence of violence/terrorism (index),1.1
+CAF,Central African Republic,Average supply of protein of animal origin (g/cap/day),18.3
+CAF,Central African Republic,Gross domestic product ($/cap),912.8
+CAF,Central African Republic,Political stability and absence of violence/terrorism (index),-2.01
+TCD,Chad,Average supply of protein of animal origin (g/cap/day),11
+TCD,Chad,Gross domestic product ($/cap),1587
+TCD,Chad,Political stability and absence of violence/terrorism (index),-1.29
+CHL,Chile,Average supply of protein of animal origin (g/cap/day),47.7
+CHL,Chile,Gross domestic product ($/cap),24470.7
+CHL,Chile,Political stability and absence of violence/terrorism (index),0.42
+CHN,China,Average supply of protein of animal origin (g/cap/day),40.3
+CHN,China,Gross domestic product ($/cap),14621.2
+HKG,"China, Hong Kong SAR",Average supply of protein of animal origin (g/cap/day),95.7
+HKG,"China, Hong Kong SAR",Gross domestic product ($/cap),59849.2
+HKG,"China, Hong Kong SAR",Political stability and absence of violence/terrorism (index),0.83
+MAC,"China, Macao SAR",Average supply of protein of animal origin (g/cap/day),68
+MAC,"China, Macao SAR",Gross domestic product ($/cap),126184
+MAC,"China, Macao SAR",Political stability and absence of violence/terrorism (index),1.43
+F41,"China, mainland",Average supply of protein of animal origin (g/cap/day),40
+TWN,"China, Taiwan Province of",Average supply of protein of animal origin (g/cap/day),42.3
+TWN,"China, Taiwan Province of",Political stability and absence of violence/terrorism (index),0.86
+COL,Colombia,Average supply of protein of animal origin (g/cap/day),36.7
+COL,Colombia,Gross domestic product ($/cap),14171.3
+COL,Colombia,Political stability and absence of violence/terrorism (index),-0.77
+COM,Comoros,Gross domestic product ($/cap),3032.3
+COM,Comoros,Political stability and absence of violence/terrorism (index),0.04
+COG,Congo,Average supply of protein of animal origin (g/cap/day),26
+COG,Congo,Gross domestic product ($/cap),4241.9
+COG,Congo,Political stability and absence of violence/terrorism (index),-0.53
+CRI,Costa Rica,Average supply of protein of animal origin (g/cap/day),44.7
+CRI,Costa Rica,Gross domestic product ($/cap),20347
+CRI,Costa Rica,Political stability and absence of violence/terrorism (index),0.61
+CIV,C?te d'Ivoire,Average supply of protein of animal origin (g/cap/day),13.7
+CIV,C?te d'Ivoire,Gross domestic product ($/cap),4830.8
+CIV,C?te d'Ivoire,Political stability and absence of violence/terrorism (index),-1.09
+HRV,Croatia,Average supply of protein of animal origin (g/cap/day),53
+HRV,Croatia,Gross domestic product ($/cap),26800.1
+HRV,Croatia,Political stability and absence of violence/terrorism (index),0.69
+CUB,Cuba,Average supply of protein of animal origin (g/cap/day),33
+CUB,Cuba,Political stability and absence of violence/terrorism (index),0.65
+CYP,Cyprus,Average supply of protein of animal origin (g/cap/day),46
+CYP,Cyprus,Gross domestic product ($/cap),38050.9
+CYP,Cyprus,Political stability and absence of violence/terrorism (index),0.54
+CZE,Czechia,Average supply of protein of animal origin (g/cap/day),51.7
+CZE,Czechia,Gross domestic product ($/cap),38824.9
+CZE,Czechia,Political stability and absence of violence/terrorism (index),1
+PRK,Democratic People's Republic of Korea,Average supply of protein of animal origin (g/cap/day),10
+PRK,Democratic People's Republic of Korea,Political stability and absence of violence/terrorism (index),-0.5
+COD,Democratic Republic of the Congo,Gross domestic product ($/cap),1059.8
+COD,Democratic Republic of the Congo,Political stability and absence of violence/terrorism (index),-2.35
+DNK,Denmark,Average supply of protein of animal origin (g/cap/day),76.7
+DNK,Denmark,Gross domestic product ($/cap),55356.7
+DNK,Denmark,Political stability and absence of violence/terrorism (index),0.87
+DJI,Djibouti,Average supply of protein of animal origin (g/cap/day),14
+DJI,Djibouti,Gross domestic product ($/cap),4885.2
+DJI,Djibouti,Political stability and absence of violence/terrorism (index),-0.74
+DMA,Dominica,Average supply of protein of animal origin (g/cap/day),46.3
+DMA,Dominica,Gross domestic product ($/cap),11304
+DMA,Dominica,Political stability and absence of violence/terrorism (index),1.2
+DOM,Dominican Republic,Average supply of protein of animal origin (g/cap/day),32
+DOM,Dominican Republic,Gross domestic product ($/cap),16735.4
+DOM,Dominican Republic,Political stability and absence of violence/terrorism (index),0.16
+ECU,Ecuador,Average supply of protein of animal origin (g/cap/day),30.3
+ECU,Ecuador,Gross domestic product ($/cap),11617.9
+ECU,Ecuador,Political stability and absence of violence/terrorism (index),-0.07
+EGY,Egypt,Average supply of protein of animal origin (g/cap/day),24.7
+EGY,Egypt,Gross domestic product ($/cap),11014.5
+EGY,Egypt,Political stability and absence of violence/terrorism (index),-1.42
+SLV,El Salvador,Average supply of protein of animal origin (g/cap/day),26.3
+SLV,El Salvador,Gross domestic product ($/cap),8454.1
+SLV,El Salvador,Political stability and absence of violence/terrorism (index),-0.26
+GNQ,Equatorial Guinea,Gross domestic product ($/cap),22551
+GNQ,Equatorial Guinea,Political stability and absence of violence/terrorism (index),-0.17
+ERI,Eritrea,Political stability and absence of violence/terrorism (index),-0.73
+EST,Estonia,Average supply of protein of animal origin (g/cap/day),64
+EST,Estonia,Gross domestic product ($/cap),33856.2
+EST,Estonia,Political stability and absence of violence/terrorism (index),0.65
+SWZ,Eswatini,Average supply of protein of animal origin (g/cap/day),16.7
+SWZ,Eswatini,Gross domestic product ($/cap),8408
+SWZ,Eswatini,Political stability and absence of violence/terrorism (index),-0.27
+ETH,Ethiopia,Average supply of protein of animal origin (g/cap/day),6
+ETH,Ethiopia,Gross domestic product ($/cap),2021.6
+ETH,Ethiopia,Political stability and absence of violence/terrorism (index),-1.68
+FJI,Fiji,Average supply of protein of animal origin (g/cap/day),28
+FJI,Fiji,Gross domestic product ($/cap),13429.3
+FJI,Fiji,Political stability and absence of violence/terrorism (index),0.64
+FIN,Finland,Average supply of protein of animal origin (g/cap/day),74.3
+FIN,Finland,Gross domestic product ($/cap),47570.1
+FIN,Finland,Political stability and absence of violence/terrorism (index),1.08
+FRA,France,Average supply of protein of animal origin (g/cap/day),63.7
+FRA,France,Gross domestic product ($/cap),44577.1
+FRA,France,Political stability and absence of violence/terrorism (index),0.28
+PYF,French Polynesia,Average supply of protein of animal origin (g/cap/day),62
+GAB,Gabon,Average supply of protein of animal origin (g/cap/day),38.3
+GAB,Gabon,Gross domestic product ($/cap),15006.8
+GAB,Gabon,Political stability and absence of violence/terrorism (index),-0.1
+GMB,Gambia,Average supply of protein of animal origin (g/cap/day),15.7
+GMB,Gambia,Gross domestic product ($/cap),2072.6
+GMB,Gambia,Political stability and absence of violence/terrorism (index),-0.08
+GEO,Georgia,Average supply of protein of animal origin (g/cap/day),29.3
+GEO,Georgia,Gross domestic product ($/cap),13589.7
+GEO,Georgia,Political stability and absence of violence/terrorism (index),-0.37
+DEU,Germany,Average supply of protein of animal origin (g/cap/day),63
+DEU,Germany,Gross domestic product ($/cap),52952.9
+DEU,Germany,Political stability and absence of violence/terrorism (index),0.59
+GHA,Ghana,Average supply of protein of animal origin (g/cap/day),14.7
+GHA,Ghana,Gross domestic product ($/cap),4983.7
+GHA,Ghana,Political stability and absence of violence/terrorism (index),0.09
+GRC,Greece,Average supply of protein of animal origin (g/cap/day),58
+GRC,Greece,Gross domestic product ($/cap),28645
+GRC,Greece,Political stability and absence of violence/terrorism (index),-0.07
+GRL,Greenland,Political stability and absence of violence/terrorism (index),1.92
+GRD,Grenada,Average supply of protein of animal origin (g/cap/day),39.7
+GRD,Grenada,Gross domestic product ($/cap),16217.5
+GRD,Grenada,Political stability and absence of violence/terrorism (index),1.01
+GTM,Guatemala,Average supply of protein of animal origin (g/cap/day),21.7
+GTM,Guatemala,Gross domestic product ($/cap),8322.2
+GTM,Guatemala,Political stability and absence of violence/terrorism (index),-0.65
+GIN,Guinea,Average supply of protein of animal origin (g/cap/day),11
+GIN,Guinea,Gross domestic product ($/cap),2417.8
+GIN,Guinea,Political stability and absence of violence/terrorism (index),-0.7
+GNB,Guinea-Bissau,Average supply of protein of animal origin (g/cap/day),9
+GNB,Guinea-Bissau,Gross domestic product ($/cap),1925.2
+GNB,Guinea-Bissau,Political stability and absence of violence/terrorism (index),-0.5
+GUY,Guyana,Average supply of protein of animal origin (g/cap/day),35.3
+GUY,Guyana,Gross domestic product ($/cap),12005.4
+GUY,Guyana,Political stability and absence of violence/terrorism (index),-0.04
+HTI,Haiti,Average supply of protein of animal origin (g/cap/day),9.7
+HTI,Haiti,Gross domestic product ($/cap),2981
+HTI,Haiti,Political stability and absence of violence/terrorism (index),-0.67
+HND,Honduras,Average supply of protein of animal origin (g/cap/day),20.7
+HND,Honduras,Gross domestic product ($/cap),5562
+HND,Honduras,Political stability and absence of violence/terrorism (index),-0.56
+HUN,Hungary,Average supply of protein of animal origin (g/cap/day),49.7
+HUN,Hungary,Gross domestic product ($/cap),29465.1
+HUN,Hungary,Political stability and absence of violence/terrorism (index),0.81
+ISL,Iceland,Average supply of protein of animal origin (g/cap/day),103
+ISL,Iceland,Gross domestic product ($/cap),55638.5
+ISL,Iceland,Political stability and absence of violence/terrorism (index),1.35
+IND,India,Average supply of protein of animal origin (g/cap/day),14
+IND,India,Gross domestic product ($/cap),6182.9
+IND,India,Political stability and absence of violence/terrorism (index),-0.76
+IDN,Indonesia,Average supply of protein of animal origin (g/cap/day),20.7
+IDN,Indonesia,Gross domestic product ($/cap),10935.6
+IDN,Indonesia,Political stability and absence of violence/terrorism (index),-0.5
+IRN,Iran (Islamic Republic of),Average supply of protein of animal origin (g/cap/day),24.3
+IRN,Iran (Islamic Republic of),Gross domestic product ($/cap),14535.9
+IRN,Iran (Islamic Republic of),Political stability and absence of violence/terrorism (index),-0.93
+IRQ,Iraq,Average supply of protein of animal origin (g/cap/day),14.7
+IRQ,Iraq,Gross domestic product ($/cap),10719
+IRQ,Iraq,Political stability and absence of violence/terrorism (index),-2.31
+IRL,Ireland,Average supply of protein of animal origin (g/cap/day),68.4
+IRL,Ireland,Gross domestic product ($/cap),78655.6
+IRL,Ireland,Political stability and absence of violence/terrorism (index),1
+ISR,Israel,Average supply of protein of animal origin (g/cap/day),73.3
+ISR,Israel,Gross domestic product ($/cap),38834
+ISR,Israel,Political stability and absence of violence/terrorism (index),-0.89
+ITA,Italy,Average supply of protein of animal origin (g/cap/day),54.3
+ITA,Italy,Gross domestic product ($/cap),41581.1
+ITA,Italy,Political stability and absence of violence/terrorism (index),0.31
+JAM,Jamaica,Average supply of protein of animal origin (g/cap/day),35.7
+JAM,Jamaica,Gross domestic product ($/cap),9600.1
+JAM,Jamaica,Political stability and absence of violence/terrorism (index),0.31
+JPN,Japan,Average supply of protein of animal origin (g/cap/day),47.7
+JPN,Japan,Gross domestic product ($/cap),40966.6
+JPN,Japan,Political stability and absence of violence/terrorism (index),1.11
+JOR,Jordan,Average supply of protein of animal origin (g/cap/day),23.3
+JOR,Jordan,Gross domestic product ($/cap),10003.6
+JOR,Jordan,Political stability and absence of violence/terrorism (index),-0.5
+KAZ,Kazakhstan,Average supply of protein of animal origin (g/cap/day),53.7
+KAZ,Kazakhstan,Gross domestic product ($/cap),24863
+KAZ,Kazakhstan,Political stability and absence of violence/terrorism (index),0.04
+KEN,Kenya,Average supply of protein of animal origin (g/cap/day),14.3
+KEN,Kenya,Gross domestic product ($/cap),4046.2
+KEN,Kenya,Political stability and absence of violence/terrorism (index),-1.13
+KIR,Kiribati,Average supply of protein of animal origin (g/cap/day),36.7
+KIR,Kiribati,Gross domestic product ($/cap),2235.7
+KIR,Kiribati,Political stability and absence of violence/terrorism (index),0.88
+KWT,Kuwait,Average supply of protein of animal origin (g/cap/day),48.7
+KWT,Kuwait,Gross domestic product ($/cap),50855.6
+KWT,Kuwait,Political stability and absence of violence/terrorism (index),-0.05
+KGZ,Kyrgyzstan,Average supply of protein of animal origin (g/cap/day),33.3
+KGZ,Kyrgyzstan,Gross domestic product ($/cap),5046.7
+KGZ,Kyrgyzstan,Political stability and absence of violence/terrorism (index),-0.43
+LAO,Lao People's Democratic Republic,Average supply of protein of animal origin (g/cap/day),18
+LAO,Lao People's Democratic Republic,Gross domestic product ($/cap),7257.8
+LAO,Lao People's Democratic Republic,Political stability and absence of violence/terrorism (index),0.4
+LVA,Latvia,Average supply of protein of animal origin (g/cap/day),61
+LVA,Latvia,Gross domestic product ($/cap),28650
+LVA,Latvia,Political stability and absence of violence/terrorism (index),0.46
+LBN,Lebanon,Average supply of protein of animal origin (g/cap/day),22
+LBN,Lebanon,Gross domestic product ($/cap),15987.7
+LBN,Lebanon,Political stability and absence of violence/terrorism (index),-1.63
+LSO,Lesotho,Average supply of protein of animal origin (g/cap/day),18.7
+LSO,Lesotho,Gross domestic product ($/cap),2668.3
+LSO,Lesotho,Political stability and absence of violence/terrorism (index),-0.19
+LBR,Liberia,Average supply of protein of animal origin (g/cap/day),10.3
+LBR,Liberia,Gross domestic product ($/cap),1515.6
+LBR,Liberia,Political stability and absence of violence/terrorism (index),-0.36
+LBY,Libya,Gross domestic product ($/cap),13238
+LBY,Libya,Political stability and absence of violence/terrorism (index),-2.36
+LTU,Lithuania,Average supply of protein of animal origin (g/cap/day),76
+LTU,Lithuania,Gross domestic product ($/cap),33761.9
+LTU,Lithuania,Political stability and absence of violence/terrorism (index),0.78
+LUX,Luxembourg,Average supply of protein of animal origin (g/cap/day),68
+LUX,Luxembourg,Gross domestic product ($/cap),112308
+LUX,Luxembourg,Political stability and absence of violence/terrorism (index),1.33
+MDG,Madagascar,Average supply of protein of animal origin (g/cap/day),9
+MDG,Madagascar,Gross domestic product ($/cap),1584.4
+MDG,Madagascar,Political stability and absence of violence/terrorism (index),-0.3
+MWI,Malawi,Average supply of protein of animal origin (g/cap/day),8.3
+MWI,Malawi,Gross domestic product ($/cap),1446.5
+MWI,Malawi,Political stability and absence of violence/terrorism (index),-0.25
+MYS,Malaysia,Average supply of protein of animal origin (g/cap/day),43.7
+MYS,Malaysia,Gross domestic product ($/cap),26661.5
+MYS,Malaysia,Political stability and absence of violence/terrorism (index),0.12
+MDV,Maldives,Average supply of protein of animal origin (g/cap/day),52.8
+MDV,Maldives,Gross domestic product ($/cap),18058.6
+MDV,Maldives,Political stability and absence of violence/terrorism (index),0.23
+MLI,Mali,Average supply of protein of animal origin (g/cap/day),21.4
+MLI,Mali,Gross domestic product ($/cap),2246.8
+MLI,Mali,Political stability and absence of violence/terrorism (index),-1.91
+MLT,Malta,Average supply of protein of animal origin (g/cap/day),65.7
+MLT,Malta,Gross domestic product ($/cap),42644.1
+MLT,Malta,Political stability and absence of violence/terrorism (index),1.25
+MHL,Marshall Islands,Gross domestic product ($/cap),3706.3
+MHL,Marshall Islands,Political stability and absence of violence/terrorism (index),0.87
+MRT,Mauritania,Average supply of protein of animal origin (g/cap/day),29.3
+MRT,Mauritania,Gross domestic product ($/cap),5077.2
+MRT,Mauritania,Political stability and absence of violence/terrorism (index),-0.63
+MUS,Mauritius,Average supply of protein of animal origin (g/cap/day),39.7
+MUS,Mauritius,Gross domestic product ($/cap),21415.1
+MUS,Mauritius,Political stability and absence of violence/terrorism (index),0.97
+MEX,Mexico,Average supply of protein of animal origin (g/cap/day),44
+MEX,Mexico,Gross domestic product ($/cap),19721.3
+MEX,Mexico,Political stability and absence of violence/terrorism (index),-0.72
+FSM,Micronesia (Federated States of),Gross domestic product ($/cap),3490.1
+FSM,Micronesia (Federated States of),Political stability and absence of violence/terrorism (index),1.18
+MNG,Mongolia,Average supply of protein of animal origin (g/cap/day),55
+MNG,Mongolia,Gross domestic product ($/cap),11311.8
+MNG,Mongolia,Political stability and absence of violence/terrorism (index),0.79
+MNE,Montenegro,Average supply of protein of animal origin (g/cap/day),69
+MNE,Montenegro,Gross domestic product ($/cap),19682.3
+MNE,Montenegro,Political stability and absence of violence/terrorism (index),-0.06
+MAR,Morocco,Average supply of protein of animal origin (g/cap/day),27
+MAR,Morocco,Gross domestic product ($/cap),7312.1
+MAR,Morocco,Political stability and absence of violence/terrorism (index),-0.37
+MOZ,Mozambique,Average supply of protein of animal origin (g/cap/day),7.3
+MOZ,Mozambique,Gross domestic product ($/cap),1283.7
+MOZ,Mozambique,Political stability and absence of violence/terrorism (index),-0.93
+MMR,Myanmar,Average supply of protein of animal origin (g/cap/day),39.7
+MMR,Myanmar,Gross domestic product ($/cap),4739.9
+MMR,Myanmar,Political stability and absence of violence/terrorism (index),-1.08
+NAM,Namibia,Average supply of protein of animal origin (g/cap/day),22.7
+NAM,Namibia,Gross domestic product ($/cap),10171.4
+NAM,Namibia,Political stability and absence of violence/terrorism (index),0.63
+NRU,Nauru,Gross domestic product ($/cap),12975.4
+NRU,Nauru,Political stability and absence of violence/terrorism (index),0.52
+NPL,Nepal,Average supply of protein of animal origin (g/cap/day),13.3
+NPL,Nepal,Gross domestic product ($/cap),3565.2
+NPL,Nepal,Political stability and absence of violence/terrorism (index),-0.69
+NLD,Netherlands,Average supply of protein of animal origin (g/cap/day),68.3
+NLD,Netherlands,Gross domestic product ($/cap),55088.6
+NLD,Netherlands,Political stability and absence of violence/terrorism (index),0.92
+NCL,New Caledonia,Average supply of protein of animal origin (g/cap/day),49.7
+NZL,New Zealand,Average supply of protein of animal origin (g/cap/day),51.7
+NZL,New Zealand,Gross domestic product ($/cap),42285.3
+NZL,New Zealand,Political stability and absence of violence/terrorism (index),1.59
+NIC,Nicaragua,Average supply of protein of animal origin (g/cap/day),19.3
+NIC,Nicaragua,Gross domestic product ($/cap),6004
+NIC,Nicaragua,Political stability and absence of violence/terrorism (index),-0.05
+NER,Niger,Average supply of protein of animal origin (g/cap/day),11
+NER,Niger,Gross domestic product ($/cap),1163.7
+NER,Niger,Political stability and absence of violence/terrorism (index),-1.27
+NGA,Nigeria,Average supply of protein of animal origin (g/cap/day),7
+NGA,Nigeria,Gross domestic product ($/cap),5190.4
+NGA,Nigeria,Political stability and absence of violence/terrorism (index),-2
+MKD,North Macedonia,Average supply of protein of animal origin (g/cap/day),35
+MKD,North Macedonia,Gross domestic product ($/cap),15649.9
+MKD,North Macedonia,Political stability and absence of violence/terrorism (index),-0.25
+NOR,Norway,Average supply of protein of animal origin (g/cap/day),67
+NOR,Norway,Gross domestic product ($/cap),64050.8
+NOR,Norway,Political stability and absence of violence/terrorism (index),1.17
+OMN,Oman,Average supply of protein of animal origin (g/cap/day),42
+OMN,Oman,Gross domestic product ($/cap),29077.4
+OMN,Oman,Political stability and absence of violence/terrorism (index),0.75
+PAK,Pakistan,Average supply of protein of animal origin (g/cap/day),25.7
+PAK,Pakistan,Gross domestic product ($/cap),4571.2
+PAK,Pakistan,Political stability and absence of violence/terrorism (index),-2.41
+PLW,Palau,Gross domestic product ($/cap),17826.4
+PLW,Palau,Political stability and absence of violence/terrorism (index),0.87
+PSE,Palestine,Gross domestic product ($/cap),6401.7
+PSE,Palestine,Political stability and absence of violence/terrorism (index),-1.66
+PAN,Panama,Average supply of protein of animal origin (g/cap/day),42
+PAN,Panama,Gross domestic product ($/cap),30446.8
+PAN,Panama,Political stability and absence of violence/terrorism (index),0.39
+PNG,Papua New Guinea,Gross domestic product ($/cap),4285.6
+PNG,Papua New Guinea,Political stability and absence of violence/terrorism (index),-0.7
+PRY,Paraguay,Average supply of protein of animal origin (g/cap/day),27.3
+PRY,Paraguay,Gross domestic product ($/cap),12590.5
+PRY,Paraguay,Political stability and absence of violence/terrorism (index),0
+PER,Peru,Average supply of protein of animal origin (g/cap/day),29
+PER,Peru,Gross domestic product ($/cap),12506.5
+PER,Peru,Political stability and absence of violence/terrorism (index),-0.26
+PHL,Philippines,Average supply of protein of animal origin (g/cap/day),25.7
+PHL,Philippines,Gross domestic product ($/cap),8120.9
+PHL,Philippines,Political stability and absence of violence/terrorism (index),-1.18
+POL,Poland,Average supply of protein of animal origin (g/cap/day),57
+POL,Poland,Gross domestic product ($/cap),30064.5
+POL,Poland,Political stability and absence of violence/terrorism (index),0.52
+PRT,Portugal,Average supply of protein of animal origin (g/cap/day),72
+PRT,Portugal,Gross domestic product ($/cap),33044.7
+PRT,Portugal,Political stability and absence of violence/terrorism (index),1.12
+PRI,Puerto Rico,Gross domestic product ($/cap),34363.7
+PRI,Puerto Rico,Political stability and absence of violence/terrorism (index),0.48
+QAT,Qatar,Gross domestic product ($/cap),91738.8
+QAT,Qatar,Political stability and absence of violence/terrorism (index),0.66
+KOR,Republic of Korea,Average supply of protein of animal origin (g/cap/day),49.7
+KOR,Republic of Korea,Gross domestic product ($/cap),40957.4
+KOR,Republic of Korea,Political stability and absence of violence/terrorism (index),0.32
+MDA,Republic of Moldova,Average supply of protein of animal origin (g/cap/day),29.3
+MDA,Republic of Moldova,Gross domestic product ($/cap),11651.3
+MDA,Republic of Moldova,Political stability and absence of violence/terrorism (index),-0.32
+ROU,Romania,Average supply of protein of animal origin (g/cap/day),54
+ROU,Romania,Gross domestic product ($/cap),27141.9
+ROU,Romania,Political stability and absence of violence/terrorism (index),0.06
+RUS,Russian Federation,Average supply of protein of animal origin (g/cap/day),54
+RUS,Russian Federation,Gross domestic product ($/cap),25926.4
+RUS,Russian Federation,Political stability and absence of violence/terrorism (index),-0.64
+RWA,Rwanda,Average supply of protein of animal origin (g/cap/day),8
+RWA,Rwanda,Gross domestic product ($/cap),1975.2
+RWA,Rwanda,Political stability and absence of violence/terrorism (index),0.09
+KNA,Saint Kitts and Nevis,Average supply of protein of animal origin (g/cap/day),52
+KNA,Saint Kitts and Nevis,Gross domestic product ($/cap),25360.1
+KNA,Saint Kitts and Nevis,Political stability and absence of violence/terrorism (index),0.65
+LCA,Saint Lucia,Average supply of protein of animal origin (g/cap/day),52.3
+LCA,Saint Lucia,Gross domestic product ($/cap),14945.7
+LCA,Saint Lucia,Political stability and absence of violence/terrorism (index),0.99
+VCT,Saint Vincent and the Grenadines,Average supply of protein of animal origin (g/cap/day),49.7
+VCT,Saint Vincent and the Grenadines,Gross domestic product ($/cap),12245.1
+VCT,Saint Vincent and the Grenadines,Political stability and absence of violence/terrorism (index),0.89
+WSM,Samoa,Average supply of protein of animal origin (g/cap/day),52.7
+WSM,Samoa,Gross domestic product ($/cap),6480.8
+WSM,Samoa,Political stability and absence of violence/terrorism (index),1.18
+STP,Sao Tome and Principe,Average supply of protein of animal origin (g/cap/day),16.3
+STP,Sao Tome and Principe,Gross domestic product ($/cap),3952.9
+STP,Sao Tome and Principe,Political stability and absence of violence/terrorism (index),0.19
+SAU,Saudi Arabia,Average supply of protein of animal origin (g/cap/day),34.6
+SAU,Saudi Arabia,Gross domestic product ($/cap),47306.2
+SAU,Saudi Arabia,Political stability and absence of violence/terrorism (index),-0.58
+SEN,Senegal,Average supply of protein of animal origin (g/cap/day),13.7
+SEN,Senegal,Gross domestic product ($/cap),3203.9
+SEN,Senegal,Political stability and absence of violence/terrorism (index),-0.05
+SRB,Serbia,Average supply of protein of animal origin (g/cap/day),41.3
+SRB,Serbia,Gross domestic product ($/cap),16611
+SRB,Serbia,Political stability and absence of violence/terrorism (index),0.09
+SYC,Seychelles,Gross domestic product ($/cap),27242.7
+SYC,Seychelles,Political stability and absence of violence/terrorism (index),0.79
+SLE,Sierra Leone,Average supply of protein of animal origin (g/cap/day),11
+SLE,Sierra Leone,Gross domestic product ($/cap),1642.6
+SLE,Sierra Leone,Political stability and absence of violence/terrorism (index),-0.04
+SGP,Singapore,Gross domestic product ($/cap),95350.4
+SGP,Singapore,Political stability and absence of violence/terrorism (index),1.62
+SVK,Slovakia,Average supply of protein of animal origin (g/cap/day),37.3
+SVK,Slovakia,Gross domestic product ($/cap),30077.8
+SVK,Slovakia,Political stability and absence of violence/terrorism (index),0.91
+SVN,Slovenia,Average supply of protein of animal origin (g/cap/day),52
+SVN,Slovenia,Gross domestic product ($/cap),36505.7
+SVN,Slovenia,Political stability and absence of violence/terrorism (index),0.87
+SLB,Solomon Islands,Average supply of protein of animal origin (g/cap/day),15.3
+SLB,Solomon Islands,Gross domestic product ($/cap),2663.9
+SLB,Solomon Islands,Political stability and absence of violence/terrorism (index),0.2
+SOM,Somalia,Gross domestic product ($/cap),867.5
+SOM,Somalia,Political stability and absence of violence/terrorism (index),-2.26
+ZAF,South Africa,Average supply of protein of animal origin (g/cap/day),36
+ZAF,South Africa,Gross domestic product ($/cap),12701.3
+ZAF,South Africa,Political stability and absence of violence/terrorism (index),-0.28
+SSD,South Sudan,Political stability and absence of violence/terrorism (index),-2.45
+ESP,Spain,Average supply of protein of animal origin (g/cap/day),66
+ESP,Spain,Gross domestic product ($/cap),39528.9
+ESP,Spain,Political stability and absence of violence/terrorism (index),0.28
+LKA,Sri Lanka,Average supply of protein of animal origin (g/cap/day),17
+LKA,Sri Lanka,Gross domestic product ($/cap),12584.1
+LKA,Sri Lanka,Political stability and absence of violence/terrorism (index),-0.07
+SDN,Sudan,Average supply of protein of animal origin (g/cap/day),20
+SDN,Sudan,Gross domestic product ($/cap),4327.8
+SDN,Sudan,Political stability and absence of violence/terrorism (index),-1.98
+SUR,Suriname,Average supply of protein of animal origin (g/cap/day),25
+SUR,Suriname,Gross domestic product ($/cap),18283.7
+SUR,Suriname,Political stability and absence of violence/terrorism (index),0.13
+SWE,Sweden,Average supply of protein of animal origin (g/cap/day),68
+SWE,Sweden,Gross domestic product ($/cap),51948
+SWE,Sweden,Political stability and absence of violence/terrorism (index),0.98
+CHE,Switzerland,Average supply of protein of animal origin (g/cap/day),60
+CHE,Switzerland,Gross domestic product ($/cap),69103.6
+CHE,Switzerland,Political stability and absence of violence/terrorism (index),1.26
+SYR,Syrian Arab Republic,Political stability and absence of violence/terrorism (index),-2.62
+TJK,Tajikistan,Average supply of protein of animal origin (g/cap/day),12
+TJK,Tajikistan,Gross domestic product ($/cap),3252.9
+TJK,Tajikistan,Political stability and absence of violence/terrorism (index),-0.67
+THA,Thailand,Average supply of protein of animal origin (g/cap/day),26.7
+THA,Thailand,Gross domestic product ($/cap),17423
+THA,Thailand,Political stability and absence of violence/terrorism (index),-0.75
+TLS,Timor-Leste,Average supply of protein of animal origin (g/cap/day),16.7
+TLS,Timor-Leste,Gross domestic product ($/cap),3145.5
+TLS,Timor-Leste,Political stability and absence of violence/terrorism (index),0.07
+TGO,Togo,Average supply of protein of animal origin (g/cap/day),8.3
+TGO,Togo,Gross domestic product ($/cap),2012.2
+TGO,Togo,Political stability and absence of violence/terrorism (index),-0.88
+TON,Tonga,Gross domestic product ($/cap),6467.1
+TON,Tonga,Political stability and absence of violence/terrorism (index),0.79
+TTO,Trinidad and Tobago,Average supply of protein of animal origin (g/cap/day),43.7
+TTO,Trinidad and Tobago,Gross domestic product ($/cap),26342.6
+TTO,Trinidad and Tobago,Political stability and absence of violence/terrorism (index),0.28
+TUN,Tunisia,Average supply of protein of animal origin (g/cap/day),28
+TUN,Tunisia,Gross domestic product ($/cap),10605.3
+TUN,Tunisia,Political stability and absence of violence/terrorism (index),-1.02
+TUR,T?rkiye,Average supply of protein of animal origin (g/cap/day),37.7
+TUR,T?rkiye,Gross domestic product ($/cap),27913.8
+TUR,T?rkiye,Political stability and absence of violence/terrorism (index),-1.79
+TKM,Turkmenistan,Average supply of protein of animal origin (g/cap/day),36
+TKM,Turkmenistan,Gross domestic product ($/cap),14205
+TKM,Turkmenistan,Political stability and absence of violence/terrorism (index),-0.13
+TUV,Tuvalu,Gross domestic product ($/cap),3896.7
+TUV,Tuvalu,Political stability and absence of violence/terrorism (index),1.24
+UGA,Uganda,Average supply of protein of animal origin (g/cap/day),11.3
+UGA,Uganda,Gross domestic product ($/cap),2074.7
+UGA,Uganda,Political stability and absence of violence/terrorism (index),-0.57
+UKR,Ukraine,Average supply of protein of animal origin (g/cap/day),37.3
+UKR,Ukraine,Gross domestic product ($/cap),11871.1
+UKR,Ukraine,Political stability and absence of violence/terrorism (index),-1.87
+ARE,United Arab Emirates,Average supply of protein of animal origin (g/cap/day),50.7
+ARE,United Arab Emirates,Gross domestic product ($/cap),67183.6
+ARE,United Arab Emirates,Political stability and absence of violence/terrorism (index),0.62
+GBR,United Kingdom of Great Britain and Northern Ireland,Average supply of protein of animal origin (g/cap/day),58.3
+GBR,United Kingdom of Great Britain and Northern Ireland,Gross domestic product ($/cap),45744.7
+GBR,United Kingdom of Great Britain and Northern Ireland,Political stability and absence of violence/terrorism (index),0.33
+TZA,United Republic of Tanzania,Average supply of protein of animal origin (g/cap/day),11.3
+TZA,United Republic of Tanzania,Gross domestic product ($/cap),2530.6
+TZA,United Republic of Tanzania,Political stability and absence of violence/terrorism (index),-0.56
+USA,United States of America,Average supply of protein of animal origin (g/cap/day),72.7
+USA,United States of America,Gross domestic product ($/cap),60109.7
+USA,United States of America,Political stability and absence of violence/terrorism (index),0.34
+URY,Uruguay,Average supply of protein of animal origin (g/cap/day),44
+URY,Uruguay,Gross domestic product ($/cap),23009.9
+URY,Uruguay,Political stability and absence of violence/terrorism (index),1.05
+UZB,Uzbekistan,Average supply of protein of animal origin (g/cap/day),35
+UZB,Uzbekistan,Gross domestic product ($/cap),6518.8
+UZB,Uzbekistan,Political stability and absence of violence/terrorism (index),-0.24
+VUT,Vanuatu,Average supply of protein of animal origin (g/cap/day),26.7
+VUT,Vanuatu,Gross domestic product ($/cap),3081.8
+VUT,Vanuatu,Political stability and absence of violence/terrorism (index),0.7
+VEN,Venezuela (Bolivarian Republic of),Average supply of protein of animal origin (g/cap/day),24.7
+VEN,Venezuela (Bolivarian Republic of),Political stability and absence of violence/terrorism (index),-1.25
+VNM,Viet Nam,Average supply of protein of animal origin (g/cap/day),37.7
+VNM,Viet Nam,Gross domestic product ($/cap),7155.4
+VNM,Viet Nam,Political stability and absence of violence/terrorism (index),0.29
+YEM,Yemen,Average supply of protein of animal origin (g/cap/day),9
+YEM,Yemen,Political stability and absence of violence/terrorism (index),-2.94
+ZMB,Zambia,Average supply of protein of animal origin (g/cap/day),12
+ZMB,Zambia,Gross domestic product ($/cap),3485
+ZMB,Zambia,Political stability and absence of violence/terrorism (index),0.15
+ZWE,Zimbabwe,Average supply of protein of animal origin (g/cap/day),11
+ZWE,Zimbabwe,Gross domestic product ($/cap),3274.6
+ZWE,Zimbabwe,Political stability and absence of violence/terrorism (index),-0.71

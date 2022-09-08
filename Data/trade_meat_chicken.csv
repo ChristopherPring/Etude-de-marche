@@ -1,0 +1,667 @@
+id,Zone,Element,Unit,Value
+AFG,Afghanistan,Import Quantity,tonnes,28937
+AFG,Afghanistan,Import Value,1000 US$,28934
+AFG,Afghanistan,Export Quantity,tonnes,37
+AFG,Afghanistan,Export Value,1000 US$,31
+ALB,Albania,Import Quantity,tonnes,17515
+ALB,Albania,Import Value,1000 US$,16481
+DZA,Algeria,Import Quantity,tonnes,2
+DZA,Algeria,Import Value,1000 US$,2
+AGO,Angola,Import Quantity,tonnes,265888
+AGO,Angola,Import Value,1000 US$,298200
+AGO,Angola,Export Quantity,tonnes,0
+AGO,Angola,Export Value,1000 US$,0
+ATG,Antigua and Barbuda,Import Quantity,tonnes,6144
+ATG,Antigua and Barbuda,Import Value,1000 US$,11927
+ATG,Antigua and Barbuda,Export Quantity,tonnes,8
+ATG,Antigua and Barbuda,Export Value,1000 US$,15
+ARG,Argentina,Import Quantity,tonnes,2097
+ARG,Argentina,Import Value,1000 US$,3891
+ARG,Argentina,Export Quantity,tonnes,204099
+ARG,Argentina,Export Value,1000 US$,285244
+ARM,Armenia,Import Quantity,tonnes,34419
+ARM,Armenia,Import Value,1000 US$,39238
+AUS,Australia,Import Quantity,tonnes,3043
+AUS,Australia,Import Value,1000 US$,13560
+AUS,Australia,Export Quantity,tonnes,38284
+AUS,Australia,Export Value,1000 US$,46957
+AUT,Austria,Import Quantity,tonnes,45022
+AUT,Austria,Import Value,1000 US$,152854
+AUT,Austria,Export Quantity,tonnes,38057
+AUT,Austria,Export Value,1000 US$,132684
+AZE,Azerbaijan,Import Quantity,tonnes,23717
+AZE,Azerbaijan,Import Value,1000 US$,29922
+AZE,Azerbaijan,Export Quantity,tonnes,69
+AZE,Azerbaijan,Export Value,1000 US$,99
+BHS,Bahamas,Import Quantity,tonnes,5088
+BHS,Bahamas,Import Value,1000 US$,37214
+BHR,Bahrain,Import Quantity,tonnes,50133
+BHR,Bahrain,Import Value,1000 US$,98096
+BHR,Bahrain,Export Quantity,tonnes,377
+BHR,Bahrain,Export Value,1000 US$,836
+BGD,Bangladesh,Import Quantity,tonnes,167
+BGD,Bangladesh,Import Value,1000 US$,118
+BGD,Bangladesh,Export Quantity,tonnes,1
+BGD,Bangladesh,Export Value,1000 US$,5
+BRB,Barbados,Import Quantity,tonnes,562
+BRB,Barbados,Import Value,1000 US$,1858
+BRB,Barbados,Export Quantity,tonnes,86
+BRB,Barbados,Export Value,1000 US$,302
+BLR,Belarus,Import Quantity,tonnes,17840
+BLR,Belarus,Import Value,1000 US$,11833
+BLR,Belarus,Export Quantity,tonnes,148968
+BLR,Belarus,Export Value,1000 US$,220350
+BEL,Belgium,Import Quantity,tonnes,212149
+BEL,Belgium,Import Value,1000 US$,329934
+BEL,Belgium,Export Quantity,tonnes,542999
+BEL,Belgium,Export Value,1000 US$,880087
+BLZ,Belize,Import Quantity,tonnes,3
+BLZ,Belize,Import Value,1000 US$,4
+BLZ,Belize,Export Quantity,tonnes,0
+BLZ,Belize,Export Value,1000 US$,0
+BEN,Benin,Import Quantity,tonnes,70849
+BEN,Benin,Import Value,1000 US$,63240
+BEN,Benin,Export Quantity,tonnes,5
+BEN,Benin,Export Value,1000 US$,18048
+BTN,Bhutan,Import Quantity,tonnes,1298
+BTN,Bhutan,Import Value,1000 US$,1683
+BOL,Bolivia (Plurinational State of),Import Quantity,tonnes,690
+BOL,Bolivia (Plurinational State of),Import Value,1000 US$,645
+BOL,Bolivia (Plurinational State of),Export Quantity,tonnes,848
+BOL,Bolivia (Plurinational State of),Export Value,1000 US$,1147
+BIH,Bosnia and Herzegovina,Import Quantity,tonnes,7409
+BIH,Bosnia and Herzegovina,Import Value,1000 US$,7109
+BIH,Bosnia and Herzegovina,Export Quantity,tonnes,4217
+BIH,Bosnia and Herzegovina,Export Value,1000 US$,5901
+BWA,Botswana,Import Quantity,tonnes,2231
+BWA,Botswana,Import Value,1000 US$,2723
+BWA,Botswana,Export Quantity,tonnes,4
+BWA,Botswana,Export Value,1000 US$,20
+BRA,Brazil,Import Quantity,tonnes,3306
+BRA,Brazil,Import Value,1000 US$,8320
+BRA,Brazil,Export Quantity,tonnes,3944215
+BRA,Brazil,Export Value,1000 US$,6427893
+BRN,Brunei Darussalam,Import Quantity,tonnes,1486
+BRN,Brunei Darussalam,Import Value,1000 US$,2956
+BGR,Bulgaria,Import Quantity,tonnes,96121
+BGR,Bulgaria,Import Value,1000 US$,105200
+BGR,Bulgaria,Export Quantity,tonnes,30005
+BGR,Bulgaria,Export Value,1000 US$,72561
+BFA,Burkina Faso,Import Quantity,tonnes,75
+BFA,Burkina Faso,Import Value,1000 US$,68
+BDI,Burundi,Import Quantity,tonnes,4
+BDI,Burundi,Import Value,1000 US$,8
+CPV,Cabo Verde,Import Quantity,tonnes,10731
+CPV,Cabo Verde,Import Value,1000 US$,12406
+KHM,Cambodia,Import Quantity,tonnes,8129
+KHM,Cambodia,Import Value,1000 US$,13596
+CMR,Cameroon,Import Quantity,tonnes,9
+CMR,Cameroon,Import Value,1000 US$,32
+CAN,Canada,Import Quantity,tonnes,143243
+CAN,Canada,Import Value,1000 US$,338542
+CAN,Canada,Export Quantity,tonnes,103470
+CAN,Canada,Export Value,1000 US$,162553
+CAF,Central African Republic,Import Quantity,tonnes,4570
+CAF,Central African Republic,Import Value,1000 US$,3641
+TCD,Chad,Import Quantity,tonnes,601
+TCD,Chad,Import Value,1000 US$,1040
+CHL,Chile,Import Quantity,tonnes,130216
+CHL,Chile,Import Value,1000 US$,176644
+CHL,Chile,Export Quantity,tonnes,82759
+CHL,Chile,Export Value,1000 US$,233702
+CHN,China,Import Quantity,tonnes,1362318
+CHN,China,Import Value,1000 US$,2535974
+CHN,China,Export Quantity,tonnes,690871
+CHN,China,Export Value,1000 US$,1285268
+HKG,"China, Hong Kong SAR",Import Quantity,tonnes,736108
+HKG,"China, Hong Kong SAR",Import Value,1000 US$,1296629
+HKG,"China, Hong Kong SAR",Export Quantity,tonnes,490253
+HKG,"China, Hong Kong SAR",Export Value,1000 US$,833068
+MAC,"China, Macao SAR",Import Quantity,tonnes,18300
+MAC,"China, Macao SAR",Import Value,1000 US$,56523
+MAC,"China, Macao SAR",Export Quantity,tonnes,71
+MAC,"China, Macao SAR",Export Value,1000 US$,141
+F41,"China, mainland",Import Quantity,tonnes,450411
+F41,"China, mainland",Import Value,1000 US$,1027766
+F41,"China, mainland",Export Quantity,tonnes,194390
+F41,"China, mainland",Export Value,1000 US$,446095
+TWN,"China, Taiwan Province of",Import Quantity,tonnes,157499
+TWN,"China, Taiwan Province of",Import Value,1000 US$,155056
+TWN,"China, Taiwan Province of",Export Quantity,tonnes,6157
+TWN,"China, Taiwan Province of",Export Value,1000 US$,5964
+COL,Colombia,Import Quantity,tonnes,54123
+COL,Colombia,Import Value,1000 US$,56779
+COL,Colombia,Export Quantity,tonnes,2235
+COL,Colombia,Export Value,1000 US$,2460
+COM,Comoros,Import Quantity,tonnes,13661
+COM,Comoros,Import Value,1000 US$,16081
+COM,Comoros,Export Quantity,tonnes,0
+COM,Comoros,Export Value,1000 US$,0
+COG,Congo,Import Quantity,tonnes,94170
+COG,Congo,Import Value,1000 US$,107482
+COG,Congo,Export Quantity,tonnes,121
+COG,Congo,Export Value,1000 US$,35
+COK,Cook Islands,Import Quantity,tonnes,1506
+COK,Cook Islands,Import Value,1000 US$,2378
+CRI,Costa Rica,Import Quantity,tonnes,12189
+CRI,Costa Rica,Import Value,1000 US$,19579
+CRI,Costa Rica,Export Quantity,tonnes,597
+CRI,Costa Rica,Export Value,1000 US$,1123
+CIV,C?te d'Ivoire,Import Quantity,tonnes,183
+CIV,C?te d'Ivoire,Import Value,1000 US$,325
+CIV,C?te d'Ivoire,Export Quantity,tonnes,16
+CIV,C?te d'Ivoire,Export Value,1000 US$,72
+HRV,Croatia,Import Quantity,tonnes,13307
+HRV,Croatia,Import Value,1000 US$,32834
+HRV,Croatia,Export Quantity,tonnes,6293
+HRV,Croatia,Export Value,1000 US$,12221
+CUB,Cuba,Import Quantity,tonnes,307421
+CUB,Cuba,Import Value,1000 US$,291805
+CUB,Cuba,Export Quantity,tonnes,
+CUB,Cuba,Export Value,1000 US$,
+CYP,Cyprus,Import Quantity,tonnes,9641
+CYP,Cyprus,Import Value,1000 US$,24238
+CYP,Cyprus,Export Quantity,tonnes,813
+CYP,Cyprus,Export Value,1000 US$,540
+CZE,Czechia,Import Quantity,tonnes,81880
+CZE,Czechia,Import Value,1000 US$,176925
+CZE,Czechia,Export Quantity,tonnes,18453
+CZE,Czechia,Export Value,1000 US$,46306
+PRK,Democratic People's Republic of Korea,Import Quantity,tonnes,
+PRK,Democratic People's Republic of Korea,Import Value,1000 US$,
+PRK,Democratic People's Republic of Korea,Export Quantity,tonnes,0
+PRK,Democratic People's Republic of Korea,Export Value,1000 US$,0
+COD,Democratic Republic of the Congo,Import Quantity,tonnes,95327
+COD,Democratic Republic of the Congo,Import Value,1000 US$,102314
+COD,Democratic Republic of the Congo,Export Quantity,tonnes,90
+COD,Democratic Republic of the Congo,Export Value,1000 US$,7
+DNK,Denmark,Import Quantity,tonnes,33812
+DNK,Denmark,Import Value,1000 US$,104755
+DNK,Denmark,Export Quantity,tonnes,73950
+DNK,Denmark,Export Value,1000 US$,136979
+DJI,Djibouti,Import Quantity,tonnes,2578
+DJI,Djibouti,Import Value,1000 US$,4488
+DMA,Dominica,Import Quantity,tonnes,3772
+DMA,Dominica,Import Value,1000 US$,5862
+DMA,Dominica,Export Quantity,tonnes,1
+DMA,Dominica,Export Value,1000 US$,1
+DOM,Dominican Republic,Import Quantity,tonnes,7843
+DOM,Dominican Republic,Import Value,1000 US$,20392
+DOM,Dominican Republic,Export Quantity,tonnes,5428
+DOM,Dominican Republic,Export Value,1000 US$,3651
+EGY,Egypt,Import Quantity,tonnes,92646
+EGY,Egypt,Import Value,1000 US$,155327
+EGY,Egypt,Export Quantity,tonnes,221
+EGY,Egypt,Export Value,1000 US$,599
+SLV,El Salvador,Import Quantity,tonnes,10525
+SLV,El Salvador,Import Value,1000 US$,14284
+SLV,El Salvador,Export Quantity,tonnes,1765
+SLV,El Salvador,Export Value,1000 US$,1886
+GNQ,Equatorial Guinea,Import Quantity,tonnes,18645
+GNQ,Equatorial Guinea,Import Value,1000 US$,22630
+GNQ,Equatorial Guinea,Export Quantity,tonnes,
+GNQ,Equatorial Guinea,Export Value,1000 US$,
+ERI,Eritrea,Import Quantity,tonnes,2
+ERI,Eritrea,Import Value,1000 US$,3
+EST,Estonia,Import Quantity,tonnes,14818
+EST,Estonia,Import Value,1000 US$,25750
+EST,Estonia,Export Quantity,tonnes,5271
+EST,Estonia,Export Value,1000 US$,9729
+SWZ,Eswatini,Import Quantity,tonnes,1331
+SWZ,Eswatini,Import Value,1000 US$,1449
+SWZ,Eswatini,Export Quantity,tonnes,137
+SWZ,Eswatini,Export Value,1000 US$,226
+ETH,Ethiopia,Import Quantity,tonnes,177
+ETH,Ethiopia,Import Value,1000 US$,205
+FRO,Faroe Islands,Import Quantity,tonnes,361
+FRO,Faroe Islands,Import Value,1000 US$,1241
+FJI,Fiji,Import Quantity,tonnes,2362
+FJI,Fiji,Import Value,1000 US$,4197
+FJI,Fiji,Export Quantity,tonnes,287
+FJI,Fiji,Export Value,1000 US$,969
+FIN,Finland,Import Quantity,tonnes,5433
+FIN,Finland,Import Value,1000 US$,21172
+FIN,Finland,Export Quantity,tonnes,9585
+FIN,Finland,Export Value,1000 US$,9567
+FRA,France,Import Quantity,tonnes,374076
+FRA,France,Import Value,1000 US$,950370
+FRA,France,Export Quantity,tonnes,300124
+FRA,France,Export Value,1000 US$,535617
+PYF,French Polynesia,Import Quantity,tonnes,14001
+PYF,French Polynesia,Import Value,1000 US$,20215
+PYF,French Polynesia,Export Quantity,tonnes,4
+PYF,French Polynesia,Export Value,1000 US$,37
+GAB,Gabon,Import Quantity,tonnes,61275
+GAB,Gabon,Import Value,1000 US$,66319
+GMB,Gambia,Import Quantity,tonnes,15985
+GMB,Gambia,Import Value,1000 US$,6363
+GEO,Georgia,Import Quantity,tonnes,47883
+GEO,Georgia,Import Value,1000 US$,59923
+GEO,Georgia,Export Quantity,tonnes,5256
+GEO,Georgia,Export Value,1000 US$,5587
+DEU,Germany,Import Quantity,tonnes,474951
+DEU,Germany,Import Value,1000 US$,1101592
+DEU,Germany,Export Quantity,tonnes,300561
+DEU,Germany,Export Value,1000 US$,629582
+GHA,Ghana,Import Quantity,tonnes,147538
+GHA,Ghana,Import Value,1000 US$,119978
+GHA,Ghana,Export Quantity,tonnes,0
+GHA,Ghana,Export Value,1000 US$,0
+GRC,Greece,Import Quantity,tonnes,53291
+GRC,Greece,Import Value,1000 US$,111071
+GRC,Greece,Export Quantity,tonnes,25284
+GRC,Greece,Export Value,1000 US$,25927
+GRD,Grenada,Import Quantity,tonnes,6024
+GRD,Grenada,Import Value,1000 US$,9721
+GTM,Guatemala,Import Quantity,tonnes,123620
+GTM,Guatemala,Import Value,1000 US$,103853
+GTM,Guatemala,Export Quantity,tonnes,2054
+GTM,Guatemala,Export Value,1000 US$,3287
+GIN,Guinea,Import Quantity,tonnes,31501
+GIN,Guinea,Import Value,1000 US$,32746
+GNB,Guinea-Bissau,Import Quantity,tonnes,4206
+GNB,Guinea-Bissau,Import Value,1000 US$,4735
+GUY,Guyana,Import Quantity,tonnes,81
+GUY,Guyana,Import Value,1000 US$,77
+GUY,Guyana,Export Quantity,tonnes,0
+GUY,Guyana,Export Value,1000 US$,0
+HTI,Haiti,Import Quantity,tonnes,85498
+HTI,Haiti,Import Value,1000 US$,77080
+HND,Honduras,Import Quantity,tonnes,8775
+HND,Honduras,Import Value,1000 US$,8769
+HND,Honduras,Export Quantity,tonnes,408
+HND,Honduras,Export Value,1000 US$,500
+HUN,Hungary,Import Quantity,tonnes,37588
+HUN,Hungary,Import Value,1000 US$,72300
+HUN,Hungary,Export Quantity,tonnes,87599
+HUN,Hungary,Export Value,1000 US$,156449
+ISL,Iceland,Import Quantity,tonnes,1207
+ISL,Iceland,Import Value,1000 US$,4239
+ISL,Iceland,Export Quantity,tonnes,0
+ISL,Iceland,Export Value,1000 US$,1
+IND,India,Import Quantity,tonnes,18
+IND,India,Import Value,1000 US$,76
+IND,India,Export Quantity,tonnes,3646
+IND,India,Export Value,1000 US$,4038
+IDN,Indonesia,Import Quantity,tonnes,0
+IDN,Indonesia,Import Value,1000 US$,0
+IDN,Indonesia,Export Quantity,tonnes,0
+IDN,Indonesia,Export Value,1000 US$,4
+IRN,Iran (Islamic Republic of),Import Quantity,tonnes,5556
+IRN,Iran (Islamic Republic of),Import Value,1000 US$,7939
+IRN,Iran (Islamic Republic of),Export Quantity,tonnes,45398
+IRN,Iran (Islamic Republic of),Export Value,1000 US$,35427
+IRQ,Iraq,Import Quantity,tonnes,361904
+IRQ,Iraq,Import Value,1000 US$,313250
+IRQ,Iraq,Export Quantity,tonnes,244
+IRQ,Iraq,Export Value,1000 US$,383
+IRL,Ireland,Import Quantity,tonnes,70413
+IRL,Ireland,Import Value,1000 US$,258792
+IRL,Ireland,Export Quantity,tonnes,63801
+IRL,Ireland,Export Value,1000 US$,73870
+ISR,Israel,Export Quantity,tonnes,81
+ISR,Israel,Export Value,1000 US$,61
+ITA,Italy,Import Quantity,tonnes,51247
+ITA,Italy,Import Value,1000 US$,105677
+ITA,Italy,Export Quantity,tonnes,91435
+ITA,Italy,Export Value,1000 US$,190254
+JAM,Jamaica,Import Quantity,tonnes,22856
+JAM,Jamaica,Import Value,1000 US$,15818
+JAM,Jamaica,Export Quantity,tonnes,783
+JAM,Jamaica,Export Value,1000 US$,3256
+JPN,Japan,Import Quantity,tonnes,569477
+JPN,Japan,Import Value,1000 US$,1345726
+JPN,Japan,Export Quantity,tonnes,10004
+JPN,Japan,Export Value,1000 US$,17621
+JOR,Jordan,Import Quantity,tonnes,52808
+JOR,Jordan,Import Value,1000 US$,81416
+JOR,Jordan,Export Quantity,tonnes,7502
+JOR,Jordan,Export Value,1000 US$,18876
+KAZ,Kazakhstan,Import Quantity,tonnes,168861
+KAZ,Kazakhstan,Import Value,1000 US$,143872
+KAZ,Kazakhstan,Export Quantity,tonnes,2972
+KAZ,Kazakhstan,Export Value,1000 US$,3777
+KEN,Kenya,Import Quantity,tonnes,75
+KEN,Kenya,Import Value,1000 US$,293
+KEN,Kenya,Export Quantity,tonnes,22
+KEN,Kenya,Export Value,1000 US$,83
+KIR,Kiribati,Import Quantity,tonnes,1185
+KIR,Kiribati,Import Value,1000 US$,2380
+KWT,Kuwait,Import Quantity,tonnes,131028
+KWT,Kuwait,Import Value,1000 US$,271768
+KWT,Kuwait,Export Quantity,tonnes,3381
+KWT,Kuwait,Export Value,1000 US$,8520
+KGZ,Kyrgyzstan,Import Quantity,tonnes,23142
+KGZ,Kyrgyzstan,Import Value,1000 US$,28868
+KGZ,Kyrgyzstan,Export Quantity,tonnes,156
+KGZ,Kyrgyzstan,Export Value,1000 US$,180
+LAO,Lao People's Democratic Republic,Import Quantity,tonnes,4129
+LAO,Lao People's Democratic Republic,Import Value,1000 US$,7139
+LVA,Latvia,Import Quantity,tonnes,34695
+LVA,Latvia,Import Value,1000 US$,43540
+LVA,Latvia,Export Quantity,tonnes,15145
+LVA,Latvia,Export Value,1000 US$,27539
+LBN,Lebanon,Import Quantity,tonnes,7848
+LBN,Lebanon,Import Value,1000 US$,19074
+LBN,Lebanon,Export Quantity,tonnes,1364
+LBN,Lebanon,Export Value,1000 US$,725
+LSO,Lesotho,Import Quantity,tonnes,10542
+LSO,Lesotho,Import Value,1000 US$,33253
+LSO,Lesotho,Export Quantity,tonnes,
+LSO,Lesotho,Export Value,1000 US$,
+LBR,Liberia,Import Quantity,tonnes,41180
+LBR,Liberia,Import Value,1000 US$,30162
+LBR,Liberia,Export Quantity,tonnes,28
+LBR,Liberia,Export Value,1000 US$,9
+LBY,Libya,Import Quantity,tonnes,56960
+LBY,Libya,Import Value,1000 US$,94309
+LTU,Lithuania,Import Quantity,tonnes,35085
+LTU,Lithuania,Import Value,1000 US$,50329
+LTU,Lithuania,Export Quantity,tonnes,52866
+LTU,Lithuania,Export Value,1000 US$,102869
+LUX,Luxembourg,Import Quantity,tonnes,7521
+LUX,Luxembourg,Import Value,1000 US$,34644
+LUX,Luxembourg,Export Quantity,tonnes,311
+LUX,Luxembourg,Export Value,1000 US$,1735
+MWI,Malawi,Import Quantity,tonnes,353
+MWI,Malawi,Import Value,1000 US$,871
+MWI,Malawi,Export Quantity,tonnes,204
+MWI,Malawi,Export Value,1000 US$,413
+MYS,Malaysia,Import Quantity,tonnes,66697
+MYS,Malaysia,Import Value,1000 US$,141671
+MYS,Malaysia,Export Quantity,tonnes,8208
+MYS,Malaysia,Export Value,1000 US$,9848
+MDV,Maldives,Import Quantity,tonnes,11248
+MDV,Maldives,Import Value,1000 US$,21258
+MLI,Mali,Import Quantity,tonnes,497
+MLI,Mali,Import Value,1000 US$,742
+MLT,Malta,Import Quantity,tonnes,5246
+MLT,Malta,Import Value,1000 US$,13388
+MLT,Malta,Export Quantity,tonnes,5
+MLT,Malta,Export Value,1000 US$,8
+MRT,Mauritania,Import Quantity,tonnes,23473
+MRT,Mauritania,Import Value,1000 US$,18550
+MUS,Mauritius,Import Quantity,tonnes,49
+MUS,Mauritius,Import Value,1000 US$,92
+MUS,Mauritius,Export Quantity,tonnes,0
+MUS,Mauritius,Export Value,1000 US$,1
+MEX,Mexico,Import Quantity,tonnes,788452
+MEX,Mexico,Import Value,1000 US$,817412
+MEX,Mexico,Export Quantity,tonnes,3726
+MEX,Mexico,Export Value,1000 US$,3456
+MNG,Mongolia,Import Quantity,tonnes,9378
+MNG,Mongolia,Import Value,1000 US$,14824
+MNE,Montenegro,Import Quantity,tonnes,6749
+MNE,Montenegro,Import Value,1000 US$,14123
+MNE,Montenegro,Export Quantity,tonnes,0
+MNE,Montenegro,Export Value,1000 US$,1
+MAR,Morocco,Import Quantity,tonnes,404
+MAR,Morocco,Import Value,1000 US$,877
+MAR,Morocco,Export Quantity,tonnes,224
+MAR,Morocco,Export Value,1000 US$,290
+MOZ,Mozambique,Import Quantity,tonnes,22212
+MOZ,Mozambique,Import Value,1000 US$,37814
+MOZ,Mozambique,Export Quantity,tonnes,
+MOZ,Mozambique,Export Value,1000 US$,
+MMR,Myanmar,Import Quantity,tonnes,20
+MMR,Myanmar,Import Value,1000 US$,49
+MMR,Myanmar,Export Quantity,tonnes,
+MMR,Myanmar,Export Value,1000 US$,
+NAM,Namibia,Import Quantity,tonnes,26899
+NAM,Namibia,Import Value,1000 US$,29968
+NAM,Namibia,Export Quantity,tonnes,11428
+NAM,Namibia,Export Value,1000 US$,11214
+NRU,Nauru,Import Quantity,tonnes,577
+NRU,Nauru,Import Value,1000 US$,1751
+NPL,Nepal,Import Quantity,tonnes,115
+NPL,Nepal,Import Value,1000 US$,619
+NLD,Netherlands,Import Quantity,tonnes,358733
+NLD,Netherlands,Import Value,1000 US$,779647
+NLD,Netherlands,Export Quantity,tonnes,1181641
+NLD,Netherlands,Export Value,1000 US$,2264596
+NCL,New Caledonia,Import Quantity,tonnes,8216
+NCL,New Caledonia,Import Value,1000 US$,17013
+NZL,New Zealand,Export Quantity,tonnes,16542
+NZL,New Zealand,Export Value,1000 US$,40123
+NIC,Nicaragua,Import Quantity,tonnes,5226
+NIC,Nicaragua,Import Value,1000 US$,6619
+NER,Niger,Import Quantity,tonnes,2182
+NER,Niger,Import Value,1000 US$,2778
+NER,Niger,Export Quantity,tonnes,27
+NER,Niger,Export Value,1000 US$,17
+NGA,Nigeria,Import Quantity,tonnes,12632
+NGA,Nigeria,Import Value,1000 US$,20650
+NGA,Nigeria,Export Quantity,tonnes,13
+NGA,Nigeria,Export Value,1000 US$,1
+NIU,Niue,Import Quantity,tonnes,53
+NIU,Niue,Import Value,1000 US$,298
+MKD,North Macedonia,Import Quantity,tonnes,36648
+MKD,North Macedonia,Import Value,1000 US$,50978
+MKD,North Macedonia,Export Quantity,tonnes,436
+MKD,North Macedonia,Export Value,1000 US$,455
+NOR,Norway,Import Quantity,tonnes,526
+NOR,Norway,Import Value,1000 US$,1336
+NOR,Norway,Export Quantity,tonnes,19
+NOR,Norway,Export Value,1000 US$,90
+OMN,Oman,Import Quantity,tonnes,121508
+OMN,Oman,Import Value,1000 US$,199227
+OMN,Oman,Export Quantity,tonnes,16047
+OMN,Oman,Export Value,1000 US$,51076
+PAK,Pakistan,Import Quantity,tonnes,64
+PAK,Pakistan,Import Value,1000 US$,123
+PAK,Pakistan,Export Quantity,tonnes,3384
+PAK,Pakistan,Export Value,1000 US$,3734
+PSE,Palestine,Import Quantity,tonnes,7900
+PSE,Palestine,Import Value,1000 US$,15861
+PSE,Palestine,Export Quantity,tonnes,
+PSE,Palestine,Export Value,1000 US$,
+PAN,Panama,Import Quantity,tonnes,12440
+PAN,Panama,Import Value,1000 US$,17896
+PAN,Panama,Export Quantity,tonnes,132
+PAN,Panama,Export Value,1000 US$,190
+PNG,Papua New Guinea,Import Quantity,tonnes,22715
+PNG,Papua New Guinea,Import Value,1000 US$,31274
+PRY,Paraguay,Export Quantity,tonnes,4469
+PRY,Paraguay,Export Value,1000 US$,4558
+PER,Peru,Import Quantity,tonnes,46126
+PER,Peru,Import Value,1000 US$,53053
+PER,Peru,Export Quantity,tonnes,13
+PER,Peru,Export Value,1000 US$,51
+PHL,Philippines,Import Quantity,tonnes,246016
+PHL,Philippines,Import Value,1000 US$,221511
+PHL,Philippines,Export Quantity,tonnes,311
+PHL,Philippines,Export Value,1000 US$,1143
+POL,Poland,Import Quantity,tonnes,31348
+POL,Poland,Import Value,1000 US$,55878
+POL,Poland,Export Quantity,tonnes,725320
+POL,Poland,Export Value,1000 US$,1319580
+PRT,Portugal,Import Quantity,tonnes,37998
+PRT,Portugal,Import Value,1000 US$,72439
+PRT,Portugal,Export Quantity,tonnes,33630
+PRT,Portugal,Export Value,1000 US$,52711
+QAT,Qatar,Import Quantity,tonnes,138567
+QAT,Qatar,Import Value,1000 US$,249382
+QAT,Qatar,Export Quantity,tonnes,
+QAT,Qatar,Export Value,1000 US$,
+KOR,Republic of Korea,Import Quantity,tonnes,106359
+KOR,Republic of Korea,Import Value,1000 US$,197769
+KOR,Republic of Korea,Export Quantity,tonnes,3407
+KOR,Republic of Korea,Export Value,1000 US$,4158
+MDA,Republic of Moldova,Import Quantity,tonnes,11877
+MDA,Republic of Moldova,Import Value,1000 US$,11691
+MDA,Republic of Moldova,Export Quantity,tonnes,0
+MDA,Republic of Moldova,Export Value,1000 US$,0
+ROU,Romania,Import Quantity,tonnes,110910
+ROU,Romania,Import Value,1000 US$,128332
+ROU,Romania,Export Quantity,tonnes,53070
+ROU,Romania,Export Value,1000 US$,119050
+RUS,Russian Federation,Import Quantity,tonnes,218669
+RUS,Russian Federation,Import Value,1000 US$,343681
+RUS,Russian Federation,Export Quantity,tonnes,103856
+RUS,Russian Federation,Export Value,1000 US$,135237
+RWA,Rwanda,Import Quantity,tonnes,12
+RWA,Rwanda,Import Value,1000 US$,61
+RWA,Rwanda,Export Quantity,tonnes,
+RWA,Rwanda,Export Value,1000 US$,
+KNA,Saint Kitts and Nevis,Import Quantity,tonnes,3421
+KNA,Saint Kitts and Nevis,Import Value,1000 US$,5906
+KNA,Saint Kitts and Nevis,Export Quantity,tonnes,8
+KNA,Saint Kitts and Nevis,Export Value,1000 US$,17
+LCA,Saint Lucia,Import Quantity,tonnes,8269
+LCA,Saint Lucia,Import Value,1000 US$,11062
+LCA,Saint Lucia,Export Quantity,tonnes,2
+LCA,Saint Lucia,Export Value,1000 US$,1
+VCT,Saint Vincent and the Grenadines,Import Quantity,tonnes,7021
+VCT,Saint Vincent and the Grenadines,Import Value,1000 US$,9240
+WSM,Samoa,Import Quantity,tonnes,15053
+WSM,Samoa,Import Value,1000 US$,17735
+WSM,Samoa,Export Quantity,tonnes,8
+WSM,Samoa,Export Value,1000 US$,24
+STP,Sao Tome and Principe,Import Quantity,tonnes,1860
+STP,Sao Tome and Principe,Import Value,1000 US$,2379
+SAU,Saudi Arabia,Import Quantity,tonnes,730960
+SAU,Saudi Arabia,Import Value,1000 US$,1232031
+SAU,Saudi Arabia,Export Quantity,tonnes,37415
+SAU,Saudi Arabia,Export Value,1000 US$,145532
+SEN,Senegal,Import Quantity,tonnes,9
+SEN,Senegal,Import Value,1000 US$,48
+SRB,Serbia,Import Quantity,tonnes,7182
+SRB,Serbia,Import Value,1000 US$,6503
+SRB,Serbia,Export Quantity,tonnes,5735
+SRB,Serbia,Export Value,1000 US$,9527
+SYC,Seychelles,Import Quantity,tonnes,3124
+SYC,Seychelles,Import Value,1000 US$,4729
+SLE,Sierra Leone,Import Quantity,tonnes,13070
+SLE,Sierra Leone,Import Value,1000 US$,13125
+SLE,Sierra Leone,Export Quantity,tonnes,27
+SLE,Sierra Leone,Export Value,1000 US$,20
+SGP,Singapore,Import Quantity,tonnes,122430
+SGP,Singapore,Import Value,1000 US$,226040
+SGP,Singapore,Export Quantity,tonnes,17834
+SGP,Singapore,Export Value,1000 US$,23508
+SVK,Slovakia,Import Quantity,tonnes,48808
+SVK,Slovakia,Import Value,1000 US$,88275
+SVK,Slovakia,Export Quantity,tonnes,19032
+SVK,Slovakia,Export Value,1000 US$,40542
+SVN,Slovenia,Import Quantity,tonnes,11272
+SVN,Slovenia,Import Value,1000 US$,26508
+SVN,Slovenia,Export Quantity,tonnes,17797
+SVN,Slovenia,Export Value,1000 US$,45495
+SLB,Solomon Islands,Import Quantity,tonnes,3028
+SLB,Solomon Islands,Import Value,1000 US$,7078
+SOM,Somalia,Import Quantity,tonnes,2085
+SOM,Somalia,Import Value,1000 US$,2855
+ZAF,South Africa,Import Quantity,tonnes,480346
+ZAF,South Africa,Import Value,1000 US$,410502
+ZAF,South Africa,Export Quantity,tonnes,58259
+ZAF,South Africa,Export Value,1000 US$,87683
+SSD,South Sudan,Import Quantity,tonnes,789
+SSD,South Sudan,Import Value,1000 US$,1331
+ESP,Spain,Import Quantity,tonnes,129773
+ESP,Spain,Import Value,1000 US$,254612
+ESP,Spain,Export Quantity,tonnes,145789
+ESP,Spain,Export Value,1000 US$,240717
+LKA,Sri Lanka,Import Quantity,tonnes,210
+LKA,Sri Lanka,Import Value,1000 US$,631
+LKA,Sri Lanka,Export Quantity,tonnes,2010
+LKA,Sri Lanka,Export Value,1000 US$,863
+SDN,Sudan,Import Quantity,tonnes,710
+SDN,Sudan,Import Value,1000 US$,1142
+SDN,Sudan,Export Quantity,tonnes,
+SDN,Sudan,Export Value,1000 US$,
+SUR,Suriname,Import Quantity,tonnes,17707
+SUR,Suriname,Import Value,1000 US$,14952
+SUR,Suriname,Export Quantity,tonnes,4644
+SUR,Suriname,Export Value,1000 US$,3472
+SWE,Sweden,Import Quantity,tonnes,52918
+SWE,Sweden,Import Value,1000 US$,172875
+SWE,Sweden,Export Quantity,tonnes,16487
+SWE,Sweden,Export Value,1000 US$,28224
+CHE,Switzerland,Import Quantity,tonnes,33791
+CHE,Switzerland,Import Value,1000 US$,126957
+CHE,Switzerland,Export Quantity,tonnes,3106
+CHE,Switzerland,Export Value,1000 US$,4793
+SYR,Syrian Arab Republic,Import Quantity,tonnes,24298
+SYR,Syrian Arab Republic,Import Value,1000 US$,22261
+SYR,Syrian Arab Republic,Export Quantity,tonnes,113
+SYR,Syrian Arab Republic,Export Value,1000 US$,85
+TJK,Tajikistan,Import Quantity,tonnes,2609
+TJK,Tajikistan,Import Value,1000 US$,2601
+TJK,Tajikistan,Export Quantity,tonnes,0
+TJK,Tajikistan,Export Value,1000 US$,0
+THA,Thailand,Import Quantity,tonnes,356
+THA,Thailand,Import Value,1000 US$,1046
+THA,Thailand,Export Quantity,tonnes,224061
+THA,Thailand,Export Value,1000 US$,592285
+TLS,Timor-Leste,Import Quantity,tonnes,6881
+TLS,Timor-Leste,Import Value,1000 US$,11517
+TGO,Togo,Import Quantity,tonnes,15209
+TGO,Togo,Import Value,1000 US$,10476
+TGO,Togo,Export Quantity,tonnes,70
+TGO,Togo,Export Value,1000 US$,60
+TON,Tonga,Import Quantity,tonnes,7976
+TON,Tonga,Import Value,1000 US$,8949
+TTO,Trinidad and Tobago,Import Quantity,tonnes,19985
+TTO,Trinidad and Tobago,Import Value,1000 US$,24242
+TTO,Trinidad and Tobago,Export Quantity,tonnes,0
+TTO,Trinidad and Tobago,Export Value,1000 US$,1
+TUN,Tunisia,Import Quantity,tonnes,233
+TUN,Tunisia,Import Value,1000 US$,548
+TUN,Tunisia,Export Quantity,tonnes,2739
+TUN,Tunisia,Export Value,1000 US$,2927
+TUR,T?rkiye,Import Quantity,tonnes,2752
+TUR,T?rkiye,Import Value,1000 US$,1996
+TUR,T?rkiye,Export Quantity,tonnes,405030
+TUR,T?rkiye,Export Value,1000 US$,515421
+TKM,Turkmenistan,Import Quantity,tonnes,9648
+TKM,Turkmenistan,Import Value,1000 US$,8481
+TUV,Tuvalu,Import Quantity,tonnes,587
+TUV,Tuvalu,Import Value,1000 US$,639
+UGA,Uganda,Import Quantity,tonnes,184
+UGA,Uganda,Import Value,1000 US$,253
+UGA,Uganda,Export Quantity,tonnes,205
+UGA,Uganda,Export Value,1000 US$,609
+UKR,Ukraine,Import Quantity,tonnes,106930
+UKR,Ukraine,Import Value,1000 US$,42926
+UKR,Ukraine,Export Quantity,tonnes,270979
+UKR,Ukraine,Export Value,1000 US$,387464
+ARE,United Arab Emirates,Import Quantity,tonnes,440543
+ARE,United Arab Emirates,Import Value,1000 US$,720524
+ARE,United Arab Emirates,Export Quantity,tonnes,23131
+ARE,United Arab Emirates,Export Value,1000 US$,41296
+GBR,United Kingdom of Great Britain and Northern Ireland,Import Quantity,tonnes,366960
+GBR,United Kingdom of Great Britain and Northern Ireland,Import Value,1000 US$,1178523
+GBR,United Kingdom of Great Britain and Northern Ireland,Export Quantity,tonnes,279153
+GBR,United Kingdom of Great Britain and Northern Ireland,Export Value,1000 US$,270019
+TZA,United Republic of Tanzania,Import Quantity,tonnes,2327
+TZA,United Republic of Tanzania,Import Value,1000 US$,2328
+USA,United States of America,Import Quantity,tonnes,58075
+USA,United States of America,Import Value,1000 US$,204347
+USA,United States of America,Export Quantity,tonnes,3191436
+USA,United States of America,Export Value,1000 US$,3199249
+URY,Uruguay,Import Quantity,tonnes,348
+URY,Uruguay,Import Value,1000 US$,1008
+URY,Uruguay,Export Quantity,tonnes,3178
+URY,Uruguay,Export Value,1000 US$,3698
+UZB,Uzbekistan,Import Quantity,tonnes,7696
+UZB,Uzbekistan,Import Value,1000 US$,7018
+VUT,Vanuatu,Import Quantity,tonnes,3394
+VUT,Vanuatu,Import Value,1000 US$,7608
+VEN,Venezuela (Bolivarian Republic of),Import Quantity,tonnes,23121
+VEN,Venezuela (Bolivarian Republic of),Import Value,1000 US$,58958
+VEN,Venezuela (Bolivarian Republic of),Export Quantity,tonnes,
+VEN,Venezuela (Bolivarian Republic of),Export Value,1000 US$,
+VNM,Viet Nam,Import Quantity,tonnes,85848
+VNM,Viet Nam,Import Value,1000 US$,108084
+VNM,Viet Nam,Export Quantity,tonnes,6700
+VNM,Viet Nam,Export Value,1000 US$,12114
+YEM,Yemen,Import Quantity,tonnes,81697
+YEM,Yemen,Import Value,1000 US$,130327
+YEM,Yemen,Export Quantity,tonnes,99
+YEM,Yemen,Export Value,1000 US$,124
+ZMB,Zambia,Import Quantity,tonnes,12011
+ZMB,Zambia,Import Value,1000 US$,7500
+ZMB,Zambia,Export Quantity,tonnes,958
+ZMB,Zambia,Export Value,1000 US$,1503
+ZWE,Zimbabwe,Import Quantity,tonnes,5877
+ZWE,Zimbabwe,Import Value,1000 US$,4604
